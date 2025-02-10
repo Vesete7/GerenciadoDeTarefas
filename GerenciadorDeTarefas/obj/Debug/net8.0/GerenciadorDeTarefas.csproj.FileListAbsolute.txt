@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.exe
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.deps.json
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.runtimeconfig.json
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.dll
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.pdb
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.AssemblyInfo.cs
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.sourcelink.json
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.dll
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\refint\GerenciadorDeTarefas.dll
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.pdb
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.genruntimeconfig.cache
+C:\Users\Alunos\Documents\euvinni\GerenciadoDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\ref\GerenciadorDeTarefas.dll
